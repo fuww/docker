@@ -8,7 +8,7 @@ RUN apt-get update && \
 		php7.0-fpm \
 		php7.0-mysql \
 		php7.0-sqlite3 \
-		php7.0-memcache \
+		php7.0-memcached \
 		php7.0-cli \
 		php7.0-curl \
 		php7.0-gd \
